@@ -13,7 +13,7 @@
 - Método de ataque: ``` 3) Credential Harvester Attack Method ```
 - Método de ataque: ``` 2) Site Cloner ```
 - O aplicativo irá sugerir o próprio endereço da maquina: ``` Nesse caso basta teclar enter ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.instagram.com
 
 ### Resutados
 
