@@ -45,4 +45,5 @@
 
 3º
 
-![resultado](https://github.com/user-attachments/assets/33c6fb01-efae-4c88-bab1-b908ef9514b4)
+![resultado](https://github.com/user-attachments/assets/4e2a891d-9cb4-4999-8cad-09ef3b29fb8a)
+
