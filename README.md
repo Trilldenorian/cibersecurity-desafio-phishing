@@ -3,17 +3,18 @@
 ### Ferramentas
 
 - Kali Linux
+- Anonsurf
 - setoolkit
 
 ### Configurando o Phishing no Kali Linux
 
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
+- Iniciando aplicativo de anonimato: ``` sudo anonsurf start ```
+- Iniciando o setoolkit: ``` sudo setoolkit ```
+- Tipo de ataque: ``` 1) Social-Engineering Attacks ```
+- Vetor de ataque: ``` 2) Web Site Attack Vectors ```
+- Método de ataque: ``` 3) Credential Harvester Attack Method ```
+- Método de ataque: ``` 2) Site Cloner ```
+- O aplicativo irá sugerir o próprio endereço da maquina: ``` Nesse caso basta teclar enter ```
 - URL para clone: http://www.facebook.com
 
 ### Resutados
