@@ -44,5 +44,5 @@
 ![insta](https://github.com/user-attachments/assets/88c24c17-a275-40ae-b502-f603b60dae45)
 
 3º
-![resultado](https://github.com/user-attachments/assets/50533748-26c4-4a5e-baa8-a1c716b6df6d)
 
+![resultado](https://github.com/user-attachments/assets/33c6fb01-efae-4c88-bab1-b908ef9514b4)
