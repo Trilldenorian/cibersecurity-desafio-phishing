@@ -3,12 +3,10 @@
 ### Ferramentas
 
 - Kali Linux
-- Anonsurf
 - setoolkit
 
 ### Configurando o Phishing no Kali Linux
 
-- Iniciando aplicativo de anonimato: ``` sudo anonsurf start ```
 - Iniciando o setoolkit: ``` sudo setoolkit ```
 - Tipo de ataque: ``` 1) Social-Engineering Attacks ```
 - Vetor de ataque: ``` 2) Web Site Attack Vectors ```
